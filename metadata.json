@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Royal Aqeeqa — Digital Invitation",
+  "description": "Luxury customizable Muslim wedding invitation platform with animated wax-seal envelope, Islamic calligraphy, countdown, event timeline, gallery lightbox, background music, and secure admin studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
